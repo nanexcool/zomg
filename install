@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 echo "Installing..."
 export NANO=yes
+echo "$@"
 echo "Installation finished."
